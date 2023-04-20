@@ -11,7 +11,7 @@
 
 <p align="center"> I am passionate about innovation and always seek to challenge myself to learn and grow in new ways. The constantly evolving landscape of technology fascinates me and I am dedicated to being a part of its progress. Witnessing the impact of technology on our lives is truly inspiring, and I can't wait to see where this journey takes me next. </p>
 
-> <p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out!
+ <p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out!
 
 <h3 align="left">Connect with me:</h3>
 
