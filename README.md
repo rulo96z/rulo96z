@@ -1,4 +1,4 @@
-<img src="header.gif" width="1000" height="250" />
+<img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="1000" height="250" />
 
 <p align="center"> <i>"The only way to do great work is to love what you do."</i></p>
 <p align="right"> <b><i> - Steve Jobs</b></i></p>
@@ -11,25 +11,21 @@
 
 <p align="center"> I am passionate about innovation and always seek to challenge myself to learn and grow in new ways. The constantly evolving landscape of technology fascinates me and I am dedicated to being a part of its progress. Witnessing the impact of technology on our lives is truly inspiring, and I can't wait to see where this journey takes me next. </p>
 
-<p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out! </p>
+> <p align="center"> 📫  If you're interested in any of my work, or want to collaborate, feel free to reach out!
 
-
-<h4 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/danielclark00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielclark00" height="30" width="40" />
+  <a href="https://twitter.com/Shadow_96z" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shadow_96z" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/danielclark00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielclark00" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/darktidings" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darktidings" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/raulnogalesfernandez/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raulnogalesfernandez" height="30" width="40" />
   </a>
 </p>
 
 
-<h4 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   
