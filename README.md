@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="1000" height="250" />
 
-<p align="center"> <i>"The only way to do great work is to love what you do."</i></p>
-<p align="right"> <b><i> - Steve Jobs</b></i></p>
+<p align="center"> <i>"Investing is not a game where the guy with the 160 IQ beats the guy with the 130 IQ. Rationality is essential."</i></p>
+<p align="right"> <b><i> - Warren Buffett</b></i></p>
 
 ---
 
