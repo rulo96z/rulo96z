@@ -7,7 +7,7 @@
 
 <h3 align="center"><b> Hi, I'm Raul! Welcome to my journey  👋</b></h3>
 
-<p align="center"> I'm a highly motivated and skilled Data Science from San Francisco, specializing in ML/AI deployment. With a strong foundation in Python, I'm constantly expanding my proficiency in Python for finance. My dedication to mastering new skills and exploring cutting-edge technologies has led me to realize that my future lies in the exciting and ever-evolving realm of ML/AI. I'm passionate about technology and constantly challenge myself to learn new things, and I'm excited to be a part of this incredible journey. </p>
+<p align="center"> I'm a highly motivated and skilled Data Scientist from San Francisco, specializing in ML/AI deployment. With a strong foundation in Python, I'm constantly expanding my proficiency in Python for finance. My dedication to mastering new skills and exploring cutting-edge technologies has led me to realize that my future lies in the exciting and ever-evolving realm of ML/AI. I'm passionate about technology and constantly challenge myself to learn new things, and I'm excited to be a part of this incredible journey. </p>
 
 <p align="center"> I am passionate about innovation and always seek to challenge myself to learn and grow in new ways. The constantly evolving landscape of technology fascinates me and I am dedicated to being a part of its progress. Witnessing the impact of technology on our lives is truly inspiring, and I can't wait to see where this journey takes me next. </p>
 
